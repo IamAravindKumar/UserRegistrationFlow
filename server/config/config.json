@@ -1,0 +1,10 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://employeedb_owner:employee2021@localhost:27017/UserSignUpDB?authSource=EmployeeManagerDB"
+    },
+    "production": {
+        "PORT": 80,
+        "MONGODB_URI": ""
+    }
+}
