@@ -1,4 +1,4 @@
-# UserRegistrationFlow
+# User Registration Flow
 A MEAN Stack Project to implement User Registration with password encryption and proper validation
 
 # Features :
@@ -8,3 +8,8 @@ A MEAN Stack Project to implement User Registration with password encryption and
 * Server-Side Validation
 * Encrypt Password using bcryptjs
 * Node JS API Call From Angular 11
+
+# Getting started
+- clone app
+- npm install
+- npm start
